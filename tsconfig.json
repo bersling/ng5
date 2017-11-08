@@ -15,5 +15,10 @@
       "es2017",
       "dom"
     ]
-  }
+  },
+  "include": [
+    "src/**/*",
+    "node_modules/spinner-angular/index.ts",
+    "node_modules/a-pure-typescript-test/index.ts"
+  ]
 }
